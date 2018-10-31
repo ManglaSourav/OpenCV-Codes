@@ -1,1 +1,1 @@
-# OpenCV_Code
+# OpenCV Code samples
